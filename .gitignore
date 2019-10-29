@@ -1,0 +1,5 @@
+output/
+cmake_install.cmake
+CMakeFiles
+CMakeCache.txt
+.DS_Store
